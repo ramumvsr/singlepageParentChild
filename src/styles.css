@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+
+ body  {
+    background-image: url("src/assets/background/blue-bg.jpg");
+    background-color: #cccccc;
+    color:white;
+font-family: 'Roboto', sans-serif;
+}
+page{
+    position: fixed;
+    margin-left: 232px;
+    padding: 62px 0 16px 0;
+    min-height: 522px;
+}
+
